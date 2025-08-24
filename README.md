@@ -6,9 +6,9 @@ It allows users to generate strong, random passwords with customizable length an
 ---
 
 ## 🚀 Live Demo
-👉 [View Project](js-password-generator-virid.vercel.app)  
+👉 [View Project](https://js-password-generator-virid.vercel.app/)  
 
-*(Replace the above link with your actual deployed URL from GitHub Pages, Netlify, or Vercel)*
+
 
 ---
 
